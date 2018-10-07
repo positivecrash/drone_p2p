@@ -1,4 +1,4 @@
-# drone_p2p: the framework for multi-agent communication on mobile robotics market
+# Drone P2P: the framework for multi-agent communication on mobile robotics market
 
 ## Overview
 The task of this framework is to enable developers such p2p technologies as IPFS and Ethereum in order to provide communication with an autonomous base of mobile robotics. Using drone_p2p you can:
@@ -12,8 +12,9 @@ Using drone_p2p developers of the framework create an intelligent agent to assis
 * Publication of flight routes and missions;
 * Flight simulation and route correction before the drone’s departure.
 
+---
 
-# drone_p2p: фреймворк для мультиагентного взаимодействия на рынке мобильной робототехники
+# Drone P2P: фреймворк для мультиагентного взаимодействия на рынке мобильной робототехники
 
 ## Описание
 Задача фреймворка предоставить разработчику возможности p2p технологий, в частности IPFS и Ethereum, 
